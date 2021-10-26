@@ -1,0 +1,206 @@
+.logo img{
+	width: 75%;
+	height: 75%;
+	margin: 0 auto;
+	justify-content: center;
+	align-items: center;
+}	
+
+	
+
+.header{
+	background: #002C93;
+}
+.nav u1{
+	list-style: none;
+	display: flex;
+}
+.nav li{
+	margin: 0 20px;
+}
+.nav li a{
+	text-decoration: none;
+	color: #FFFFFF;
+	
+}
+.nav li a:hover{
+	color: #FFFD00;
+	
+}
+.phone{
+	text-decoration: none;
+	color:  #0076EE;
+	margin-right: 20px;
+}
+.phone:hover{
+	color: #0076EE;
+}
+
+	
+
+.chaomung img{
+	width: 100%;
+}
+
+.branding{
+	padding-top: 30px;
+	
+}
+.client-logo img{
+	width: 100%;
+}
+.client-logo h1{
+	margin: 25px;
+}
+.client-logo{
+	margin: 25px;
+	padding: 60px 65px;
+	box-shadow: 6px 5px 41px -14px rgba(0,0,0,0.91);
+	border-radius: 20px;
+
+}
+.services{
+	padding: 120px 0;
+}
+
+.card{
+	padding: 60px 56px;
+	box-shadow: 6px 5px 41px -14px rgba(0,0,0,0.51);
+	border-radius: 20px;
+}
+.icon{
+	background: #EBEBEB25;
+	width: 36px;
+	height: 36px;
+	display: block;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5px;
+}
+.icon ion-icon{
+	color: white;
+	font-size: 20px;
+	filter: drop-shadow(8px 8px 10px gray)
+}
+.card h2{
+	margin: 52px 0 40px;
+}
+.bg-icon-2{
+	background: #FF68B3;
+}
+.bg-icon-3{
+	background: #E17BEF;
+}
+.about-us{
+	padding: 75px 0;
+}
+.about-img{
+	margin-right: 20px;
+	
+	
+	
+	
+}
+.about-img img{
+	width: 100%;
+}
+.about-content h1{
+	margin: 72px 0 60px;
+}
+.about-content p{
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+.your-digital{
+	padding: 75px 0;
+}
+.digital-card{
+	padding: 32px 32px 48px ;
+	box-shadow: 2px 1px 16px 3px rgba(0,0,0,0.26);
+	-wedkit-box-shadow:  2px 1px 16px 3px rgba(0,0,0,0.26);
+	border-radius: 20px;
+	
+}
+.digital-img{
+	height: 300px;
+	overflow: hidden;
+}
+.digital-img img{
+	width: 100%;
+}
+.digital-card p{
+	margin: 24px 0 28px;
+}
+.mem-card{
+	padding: 35px 2px 35px ;
+	
+	border-radius: 20px;
+	background-color: #0076EE;
+}
+.mem-img{
+	height: 500px;
+	overflow: hidden;
+}
+.mem-img img{
+	width: 100%;
+}
+.mem-card p{
+	margin: 24px 0 28px;
+}
+.min-card{
+	padding: 35px 2px 35px ;
+	
+	border-radius: 20px;
+	background-color: #0076EE;
+}
+.min-img{
+	height: 200px;
+	overflow: hidden;
+}
+.min-img img{
+	width: 100%;
+}
+.min-card p{
+	margin: 24px 0 28px;
+}
+.banner img{
+	width: 100%;
+}
+.banner{
+	margin: 25px;
+}
+.tour{
+	padding: 8px 20px;
+	text-decoration: none;
+	color: #1F1F1F;
+	background: #002C93;
+	border-radius: 20px;
+	  
+}
+.tour h1{
+	color: #FFFFFF;
+	
+}
+.footer{
+	padding: 75px 0;
+	background: #002C93;
+}
+.quick-menu u1{
+	list-style: none;
+}
+.quick-menu li{
+	margin: 24px 0;
+	color: #FFFFFF
+}
+.quick-menu li a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.cuoicung{
+	width: 100%;
+	height:50px;
+	background: #0076EE;
+	
+	
+}
